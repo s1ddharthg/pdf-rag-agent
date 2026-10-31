@@ -1,4 +1,4 @@
-# Offline PDF RAG Pipeline
+# PDF RAG Agent Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -7,7 +7,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-A fully offline, privacy-first Retrieval-Augmented Generation (RAG) pipeline designed for local multi-document analysis. This system enables users to upload multiple PDF documents, view them side-by-side with a high-fidelity document viewer, and chat with them using locally-hosted Ollama models.
+A fully offline, privacy-first Retrieval-Augmented Generation (RAG) pipeline designed for local multi-document analysis. This system enables users to upload multiple PDF documents, view them side-by-side with a high-fidelity document viewer, answer questions and chat with them using locally-hosted Ollama models.
 
 No data ever leaves your machine, and no external API keys are required.
 
